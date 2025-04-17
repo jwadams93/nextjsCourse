@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.defaultProfile.osx": "bash",
+    "typescript.tsdk": "node_modules/typescript/lib"
+}
